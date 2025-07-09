@@ -8,8 +8,7 @@
     </p>
 
     <p>
-      O sistema permite criar, listar, marcar como concluídas, remover tarefas e gerenciar
-      <strong>subtarefas aninhadas</strong>, com persistência simulada via <code>json-server</code>.
+      O sistema permite criar, listar, marcar como concluídas, remover tarefas, com persistência simulada via <code>json-server</code>.
     </p>
 
     <h2 class="h5 mt-4">Tecnologias utilizadas</h2>
