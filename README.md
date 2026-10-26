@@ -4,49 +4,49 @@
 
 <p align="center">
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="50" height="50"/>
+    <img src="docs/assets/logos/vuejs.svg" alt="Vue.js" width="50" height="50"/>
   </a>
   &nbsp;
   &nbsp;
   &nbsp;
   <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" alt="TypeScript" width="50" height="50"/>
+    <img src="docs/assets/logos/vite.svg" alt="Vite" width="50" height="50"/>
   </a>
   &nbsp;
   &nbsp;
   &nbsp;
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/ecd695fb1ffadab6633f9fcdffaeebc58f3cca722260f0dec7dc607bd9d0e740/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="TypeScript" width="50" height="50"/>
+    <img src="docs/assets/logos/bootstrap.png" alt="Bootstrap" width="50" height="50"/>
   </a>
   &nbsp;
   &nbsp;
   &nbsp;
   <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1200px-Pinialogo.svg.png" alt="TypeScript" width="50" height="50"/>
+    <img src="docs/assets/logos/pinia.svg" alt="Pinia" width="50" height="50"/>
   </a>
   &nbsp;
   &nbsp;
   &nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+    <img src="docs/assets/logos/typescript.svg" alt="TypeScript" width="50" height="50"/>
   </a>
   &nbsp;
   &nbsp;
   &nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+    <img src="docs/assets/logos/docker.svg" alt="Docker" width="50" height="50"/>
   </a>
   &nbsp;
   &nbsp;
   &nbsp;
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+    <img src="docs/assets/logos/git.svg" alt="Git" width="50" height="50"/>
   </a>
   &nbsp;
   &nbsp;
   &nbsp;
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
+    <img src="docs/assets/logos/nodejs.svg" alt="Node.js" width="50" height="50"/>
   </a>
 </p>
 
